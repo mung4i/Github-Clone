@@ -1,0 +1,4 @@
+#!/bin/bash
+export 'JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home'
+cd '/Users/martin/AndroidStudioProjects/GithubClone'
+./gradlew $@
